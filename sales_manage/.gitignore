@@ -1,1 +1,13 @@
-/target/
+!/.project
+.project
+.settings
+target/
+.idea/
+.DS_Store
+overlays/
+.gradle/
+build/
+bin/
+*.iml
+*.log
+.classpath
